@@ -1,0 +1,90 @@
+- title: MLH Portfolio - Team Hackathon
+  slug: /mlh-portfolio/
+  img: images/mlh-portfolio-01.png
+  description: >
+    During the kickoff hackathon for my fellowship program with Major League Hacking (MLH), my team and I were tasked with building a portfolio and blog Flask application. 
+
+    I designed a mockup of the application using Figma. I also worked on the frontend using HTML, CSS, and Javascript. 
+    
+    In the following weeks, we were tasked with continuing work on the application individually. I set up an AWS EC2 instance and containerized the application and database using Docker. 
+  links:
+    - title: 'cccswann/portfolio-blog'
+      icon: GitHub
+      url: https://github.com/cccswann/portfolio-blog
+  techstack:
+    - Flask
+    - SQLalchemy
+    - HTML
+    - CSS
+    - JavaScript
+    - AWS
+    - Docker
+    - Kubernetes
+    - Github Actions
+
+- title: Foodstagram - Team Project
+  slug: /foodstagram/
+  img: images/foodstagram-01.png
+  description: >
+    Put into teams of 4 for the MLH Fellowship, my team and I decided to build an Instagram clone app (specifically for food, with additional features) using a Python backend. 
+  links:
+    - title: 'MLH Project 2 - Foodstagran'
+      icon: GitHub
+      url: https://github.com/varsharathore16/MLH-Project-2
+  techstack:
+    - Flask
+    - MongoDB
+    - Pug
+    - SCSS
+    - JavaScript
+    - Figma
+    - AWS
+    - Docker
+
+
+
+- title: 'Hoshii'
+  slug: '/hoshii/'
+  img: 'images/hoshii-01.png'
+  description: >
+    Hoshii is a mechanical keyboard groupbuy wishlist app. Users can search for upcoming groupbuys for keyboards or key caps and add them to their wishlist. 
+
+    I also implemented third-party authentication with the Devise gem in Rails.
+  links:
+    - title: 'cccswann/hoshii-app'
+      icon: GitHub
+      url: https://github.com/cccswann/hoshii-app
+  techstack:
+    - Ruby on Rails
+    - SQLite3
+    - HTML
+    - CSS
+
+- title: 'Manabu List'
+  slug: '/manabu-list/'
+  img: 'images/manabu-list-01.png'
+  description: >
+    An all-in-one online course tracker. Manabu List keeps track of the online courses you're taking, want to take, or dropped. 
+  links:
+    - title: 'cccswann/manabu-list'
+      icon: GitHub
+      url: https://github.com/cccswann/manabu-list
+  techstack:
+    - Sinatra
+    - ActiveRecord
+    - HTML
+    - CSS
+
+- title: 'League of Legends CLI Tool'
+  slug: '/league-of-legends-cli/'
+  img: 'images/league-of-legends-cli-01.png'
+  description: >
+    This is a CLI tool that I built using Ruby. Pulling from Riot's API, this tool allows a user to search through all playable champions in League of Legends and find their stats from the command line.
+
+  links:
+    - title: 'cccswann/cli-project'
+      icon: GitHub
+      url: https://github.com/cccswann/cli-project
+  techstack:
+    - Ruby
+

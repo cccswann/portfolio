@@ -1,0 +1,164 @@
+{
+  "basics": {
+    "name": "Ciara Swann",
+    "label": "Software Engineer",
+    "picture": "../src/images/avatar.jpg",
+    "email": "cccswann@gmail.com",
+    "website": "https://ciaraswann.dev",
+    "summary": "",
+    "profiles": [
+      {
+        "network": "Resume",
+        "username": "cccswann",
+        "url": "/resume"
+      },
+      {
+        "network": "GitHub",
+        "username": "cccswann",
+        "url": "https://github.com/cccswann"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "ciaraswann",
+        "url": "https://www.linkedin.com/in/ciaraswann"
+      }
+    ],
+    "location": {
+      "city": "Seattle",
+      "countryCode": "WA"
+    }
+  },
+  "work": [
+    {
+      "company": "Major League Hacking & Facebook",
+      "position": "Fellow - Production Engineering",
+      "website": "https://mlh.io/",
+      "startDate": "2021-01-06",
+      "summary": "Set up an AWS EC2 instance to host a Flask application. Write tests using bash scripting, Postman, and PyTest. Implement CI/CD with Github Actions.\n\nCollaborate with a team of 10 other fellows and learn to work across product & infrastructure to make sure services are reliable & scalable."
+    },
+    {
+      "company": "TechTogether - Seattle Chapter",
+      "position": "Programming Organizer",
+      "website": "https://techtogether.io/",
+      "startDate": "2021-12-04",
+      "summary": "Plan over 20 technical workshops, recruit and coordinate with workshop presenters (Engineers, Product Managers, etc.). Create event schedule with programming director and team. Collaborate with Sponsorship and Marketing teams on sponsor challenges, workshops, and marketing event schedule."
+    },
+    {
+      "company": "Pac-Van Inc. (United Rentals)",
+      "position": "Billing Administrator - Accounting Dept.",
+      "website": "https://ascribe.io",
+      "startDate": "2016-01-05",
+      "endDate": "2021-02-10",
+      "summary": "Managed sales billing for the Seattle (and sometimes, Portland and Yakima) branches - billing over $35 million in revenue. Managed accounts payable and acted as the primary contact for over 100 vendors. Trained new hires on ERP software usage/processes and other aspects related to the position - created training/onboarding materials such as custom-made documentation & demos."
+    },
+    {
+      "company": "University of Washington",
+      "position": "Resident Advisor",
+      "website": "https://chartmogul.com",
+      "startDate": "2014-05-15",
+      "endDate": "2015-06-01",
+      "summary": "Supervised 120 residents and enforced student housing policies. Kept a duty phone for serving as on-call contact for residents in the event of emergencies, housing questions, and maintenance requests. Planned events for student housing residents. "
+    },
+    {
+      "company": "University of Washington",
+      "position": "Marketing Coordinator for Recreation & Fitness Division",
+      "website": "https://sharethemeal.org",
+      "startDate": "2013-05-01",
+      "endDate": "2014-06-01",
+      "summary": "Designed advertising materials using Adobe Creative Suite. Managed all social media accounts (Facebook, LinkedIn, Twitter), responded to questions/concerns, and posted content."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Arizona State University",
+      "area": "Computer Science",
+      "studyType": "Master's",
+      "startDate": "2021-01-02",
+      "endDate": "2023-01-06"
+    },
+    {
+      "institution": "Flatiron School",
+      "area": "Software Engineering",
+      "studyType": "Certificate",
+      "startDate": "2020-01-10",
+      "endDate": "2021-01-08"
+    },
+    {
+      "institution": "University of Washington",
+      "area": "Business Administration & Communication",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2011-01-06",
+      "endDate": "2016-01-06"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Design",
+      "level": "Master",
+      "keywords": [
+        "Product Design",
+        "Service Design",
+        "Interface Design",
+        "User Experience Design",
+        "Communication Design",
+        "Interaction Design",
+        "Information Architecture",
+        "Icon Design",
+        "Web Design",
+        "Typography",
+        "Design management"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Node.js",
+        "npm ecosystem",
+        "SASS/SCSS",
+        "Less",
+        "Stylus",
+        "Gulp",
+        "Gatsby",
+        "React",
+        "Styled Components",
+        "JAMstack"
+      ]
+    },
+    {
+      "name": "General Software Development",
+      "level": "Master",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "Bash",
+        "UNIX",
+        "Agile: Kanban & Scrum",
+        "Prototyping",
+        "Incremental"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Intermediate",
+      "keywords": ["AWS", "Now", "Serverless", "Cloudflare", "NGINX", "Apache"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "JLPT N3"
+    }
+  ],
+  "meta": {
+    "canonical": "https://ciaraswann.dev/resume",
+    "lastModified": ""
+  }
+}

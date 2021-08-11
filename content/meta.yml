@@ -1,0 +1,17 @@
+# most personal metadata can be found in ./resume.json
+
+- description: Portfolio of Ciara Swann.
+  img: ../src/images/twitter-card.png
+
+  availability:
+    status: true
+    available: 'Available for new opportunities. <a href="mailto:cccswann@gmail.com">Let’s talk</a>!'
+    unavailable: Not available for new projects.
+
+  typekitID: rsw3toc
+
+  allowedHosts:
+    - cccswann.github.io
+    - ciaraswann.dev
+    - localhost
+    - 05.local

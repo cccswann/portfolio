@@ -1,0 +1,74 @@
+:root {
+  /* Colors */
+  --brand-main: #159f9f;
+  --brand-cyan: #43a699;
+  --brand-main-light: #72c7c7;
+  --brand-light: #ffffff;
+
+  --brand-grey: #000000;
+  --brand-grey-dark: #414547;
+  --brand-grey-darkish: #727272;
+  --brand-grey-light: #a7afb3;
+  --brand-grey-dimmed: #c3d8e0;
+
+  /* Backgrounds */
+  --body-background-color: var(--brand-light);
+  --box-background-color: rgba(212, 212, 212, 0.4);
+
+  /* Text Colors */
+  --text-color: var(--brand-grey);
+  --text-color-light: var(--brand-grey-light);
+  --text-color-dimmed: var(--brand-grey-dimmed);
+  --color-headings: var(--brand-main);
+  --link-color: var(--brand-cyan);
+  --border-color: var(--brand-grey-dimmed);
+
+  /* Typography */
+  --font-size-root: 18px;
+  --font-size-base: 1rem;
+  --font-size-large: 1.2rem;
+  --font-size-small: 0.8rem;
+  --font-size-mini: 0.7rem;
+  --font-size-h1: 2.5rem;
+  --font-size-h2: 2rem;
+  --font-size-h3: 1.85rem;
+  --font-size-h4: 1.45rem;
+  --font-size-h5: var(--font-size-large);
+  --font-size-h6: var(--font-size-base);
+  --line-height: 1.6;
+  --line-height-small: 1.1428571429;
+  --font-family-base: 'museo-sans', 'Trebuchet MS', 'Helvetica Neue',
+    'Helvetica', 'Arial', 'sans-serif';
+  --font-weight-base: 500;
+  --font-weight-bold: 700;
+  --font-family-monospace: 'attribute-mono', 'Monaco', 'Consolas', 'Courier New',
+    'monospace';
+  --font-family-headings: 'dejanire-headline', 'Helvetica Neue',
+    'Helvetica', 'Arial', 'sans-serif';
+  --font-weight-headings: 400;
+  --line-height-headings: 1.1;
+
+  /* Components spacing */
+  --spacer: 1.5rem;
+  --border-radius: 0.25rem;
+  --stroke-width: 0.125rem;
+
+  /* Miscellanious */
+  --projectImageMaxWidth: 1440px;
+  --easing: cubic-bezier(0.75, 0, 0.08, 1);
+  --box-shadow: 0 1.3px 5.4px rgba(1, 85, 101, 0.15),
+    0 4.5px 18.1px rgba(1, 85, 101, 0.05), 0 20px 81px rgba(1, 85, 101, 0.025);
+}
+
+.dark {
+  --body-background-color: #161a1b;
+  --box-background-color: rgba(255, 255, 255, 0.03);
+  --box-shadow: 0 1.3px 5.4px rgba(0, 7, 8, 0.6),
+    0 4.5px 18.1px rgba(0, 7, 8, 0.4), 0 20px 81px rgba(0, 7, 8, 0.1);
+
+  --text-color: var(--brand-grey-light);
+  --text-color-light: var(--brand-grey-light);
+  --text-color-dimmed: var(--brand-grey-dark);
+  --border-color: var(--brand-grey-dark);
+  --color-headings: var(--brand-main-light);
+}
