@@ -24,13 +24,6 @@ function truncate(n, useWordBoundary) {
 }
 
 //
-// Fetch matomo.js
-//
-execSync(`node ./scripts/fetch-matomo-js > static/matomo.js`, {
-  stdio: 'inherit'
-})
-
-//
 // Get GitHub repos
 //
 const gitHubConfig = {
