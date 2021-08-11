@@ -16,7 +16,6 @@
     "format": "prettier --write 'src/**/*.{js,jsx,css,scss}'",
     "test": "NODE_ENV=test npm run lint && jest --coverage -c tests/jest.config.js",
     "test:watch": "NODE_ENV=test npm run lint && jest --coverage --watch -c tests/jest.config.js",
-    "deploy": "gatsby build && gh-pages -d public -b main",
     "new": "babel-node ./scripts/new.js"
   },
   "dependencies": {
