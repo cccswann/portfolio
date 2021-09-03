@@ -31,7 +31,7 @@
   "work": [
     {
       "company": "Cloud Native Computing Foundation",
-      "position": "Release Team 1.23 Shadow",
+      "position": "Kubernetes Release Team 1.23 Shadow",
       "website": "https://github.com/kubernetes",
       "startDate": "2021-01-09",
       "summary": "The Release Team recruits a number of apprentices for each release role, in order to train new release team leads, handle tasks that each lead may not be able to cover, share knowledge about the release process, and help contributors broaden their areas of knowledge and participation.\n\nThese apprentices are called shadows on the release team. The Shadow system is an apprenticeship model, like those used by union tradespeople. The idea is that Shadows learn by doing, while in the process taking load off the leads and improving the release. After unplanned developments, they may even end up taking over for their lead."
