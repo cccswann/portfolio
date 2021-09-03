@@ -30,10 +30,18 @@
   },
   "work": [
     {
+      "company": "Cloud Native Computing Foundation",
+      "position": "Release Team 1.23 Shadow",
+      "website": "https://github.com/kubernetes",
+      "startDate": "2021-01-09",
+      "summary": "The Release Team recruits a number of apprentices for each release role, in order to train new release team leads, handle tasks that each lead may not be able to cover, share knowledge about the release process, and help contributors broaden their areas of knowledge and participation.\n\nThese apprentices are called shadows on the release team. The Shadow system is an apprenticeship model, like those used by union tradespeople. The idea is that Shadows learn by doing, while in the process taking load off the leads and improving the release. After unplanned developments, they may even end up taking over for their lead."
+    },
+    {
       "company": "Major League Hacking & Facebook",
       "position": "Fellow - Production Engineering",
       "website": "https://mlh.io/",
       "startDate": "2021-01-06",
+      "endDate": "2021-02-08",
       "summary": "Set up an AWS EC2 instance to host a Flask application. Write tests using bash scripting, Postman, and PyTest. Implement CI/CD with Github Actions.\n\nCollaborate with a team of 10 other fellows and learn to work across product & infrastructure to make sure services are reliable & scalable."
     },
     {
