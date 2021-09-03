@@ -21,7 +21,13 @@ export default function Header() {
           <li>
             <a href={website}>
               <Icon name="Compass" />
-              Portfolio
+              Back to Portfolio
+            </a>
+          </li>
+          <li>
+            <a href={'https://drive.google.com/file/d/1-6prSN2NJ0_xRq7Vqwavw--dj8vWYy9o/view?usp=sharing'}>
+              <Icon name="FileText" />
+              Resume (PDF Copy)
             </a>
           </li>
           <li>
