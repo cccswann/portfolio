@@ -30,6 +30,13 @@
   },
   "work": [
     {
+      "company": "GitHub & Major League Hacking (MLH)",
+      "position": "Software Engineer Intern (Externship/Remote Program)",
+      "website": "https://github.com/about",
+      "startDate": "2021-01-09",
+      "summary": "Collaborate with GitHub's Pull Request team on internal projects and initiatives (such as reducing P50 and P99 latency). Pair program regularly with Senior Engineers on Pull Request team issues."
+    },
+    {
       "company": "Cloud Native Computing Foundation",
       "position": "Kubernetes Release Team 1.23 Shadow",
       "website": "https://github.com/kubernetes",
