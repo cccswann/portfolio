@@ -28,7 +28,7 @@ export default function LogoUnit({ minimal }) {
         <Logo className={logo} />
         <h1 className={`p-name ${title}`}>{basics.name.toLowerCase()}</h1>
         <p className={`p-job-title ${description}`}>
-          portfolio
+          software engineer
         </p>
       </Link>
     </Animation>
