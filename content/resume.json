@@ -65,6 +65,7 @@
       "position": "Programming Organizer",
       "website": "https://techtogether.io/",
       "startDate": "2021-12-04",
+      "endDate": "2021-06-12",
       "summary": "Plan over 20 technical workshops, recruit and coordinate with workshop presenters (Engineers, Product Managers, etc.). Create event schedule with programming director and team. Collaborate with Sponsorship and Marketing teams on sponsor challenges, workshops, and marketing event schedule."
     },
     {
@@ -178,8 +179,20 @@
     },
     {
       "language": "Japanese",
-      "fluency": "Studying for JLPT N1 in 2022"
-    }
+      "fluency": "Fluent, JLPT N1 in 2022"
+    },
+    {
+      "language": "Tagalog",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Greek",
+      "fluency": "Conversant"
+    },
+   {
+      "language": "Spanish",
+      "fluency": "Conversant"
+    },
   ],
   "meta": {
     "canonical": "https://ciaraswann.dev/resume",
