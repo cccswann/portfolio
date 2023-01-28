@@ -29,12 +29,20 @@
     }
   },
   "work": [
+   {
+      "company": "PagerDuty",
+      "position": "Software Development Engineer Intern",
+      "website": "https://www.pagerduty.com/",
+      "startDate": "2022-09-06",
+      "summary": "Part of the SRE Platform team (Infrastructure), working with Kubernetes and Terraform."
+    },
     {
       "company": "GoDaddy",
       "position": "Software Development Engineer Intern",
       "website": "https://www.godaddy.com/",
-      "startDate": "2022-16-09",
-      "summary": "Collaborate with GoDaddy's Productivity Panel team on internal projects."
+      "startDate": "2022-06-09",
+      "endDate": "2022-08-12",
+      "summary": "Collaborate with GoDaddy's Productivity Panel team on internal projects using React and NodeJS."
     },
     {
       "company": "GitHub & Major League Hacking (MLH)",
@@ -183,7 +191,7 @@
     },
     {
       "language": "Tagalog",
-      "fluency": "Fluent"
+      "fluency": "Conversant"
     },
     {
       "language": "Greek",
